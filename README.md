@@ -36,10 +36,10 @@ const paulo: CTOProfile = {
   foco:        "Criar soluções tecnológicas para empresas",
 
   empresas: [
-    "Essent Inovação Contábil  → Contabilidade digital",
-    "Essent Jus               → Tecnologia jurídica",
-    "Essent Agro              → Soluções para o agronegócio",
-    "Mira Labs                → Inovação e P&D",
+    "Essent Inovação Contábil  → Soluções para escritórios de contabilidade",
+    "Essent Jus               → Prestação de Contas para Partidos e Candidatos",
+    "Essent Agro              → Soluções para o Produtor Rural",
+    "Mira Labs                → Pré-aceleradora de Startups",
     "oSystems                 → Hardware, Software & Consulting",
   ],
 
