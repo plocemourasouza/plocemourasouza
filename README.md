@@ -49,6 +49,20 @@ const paulo: CTOProfile = {
 
 ---
 
+## 🔭 Atualmente Trabalhando Em
+
+<div align="center">
+
+| Projeto | Descrição | Status |
+|---------|-----------|--------|
+| **OSForge v3.x** | Framework de skills para AI Agents | 🟢 Ativo |
+| **Essent Suite** | Soluções para Contabilidade, Jurídico e Agro | 🟢 Produção |
+| **Mira Labs** | Pré-aceleração de Startups | 🟢 Ativo |
+
+</div>
+
+---
+
 ## 🚀 Stack Principal
 
 <div align="center">
@@ -90,6 +104,7 @@ const paulo: CTOProfile = {
 <div align="center">
 
 [![OSForge](https://github-readme-stats.vercel.app/api/pin/?username=plocemourasouza&repo=osforge&theme=tokyonight&border_color=6366F1&title_color=6366F1&icon_color=6366F1)](https://github.com/plocemourasouza/osforge)
+[![Nexus Design System](https://github-readme-stats.vercel.app/api/pin/?username=plocemourasouza&repo=Nexus-Design-System&theme=tokyonight&border_color=6366F1&title_color=6366F1&icon_color=6366F1)](https://github.com/plocemourasouza/Nexus-Design-System)
 
 </div>
 
@@ -103,6 +118,10 @@ const paulo: CTOProfile = {
 - 📉 Redução de **~83%** no consumo base de tokens vs. frameworks monolíticos
 - 🔒 Hooks de segurança integrados: detecção de credenciais, prevenção de injeção, validação Zod
 - 📜 **v3.1** — Carregamento de skills on-demand, pronto para produção
+
+### 🎨 [Nexus Design System](https://github.com/plocemourasouza/Nexus-Design-System)
+
+> Design System interno para padronização visual dos produtos Essent e oSystems.
 
 ---
 
@@ -119,6 +138,12 @@ const paulo: CTOProfile = {
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=plocemourasouza&theme=tokyonight&border=6366F1&ring=6366F1&fire=f38ba8&currStreakLabel=cdd6f4&background=1e1e2e&stroke=6366F1)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=plocemourasouza&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20Recentes)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
